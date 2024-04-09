@@ -13,6 +13,6 @@ The purpose of this analysis was to obtain greater understanding of NCAA Divisio
 # Ethical considerations made in the project
 
 # References for the data source(s)
-*NCAA Mens Basketball Division 1 statst - https://stats.ncaa.org/rankings/change_sport_year_div
+*NCAA Mens Basketball Division 1 statistics - https://stats.ncaa.org/rankings/change_sport_year_div
 
 # References for any code used that is not your own
