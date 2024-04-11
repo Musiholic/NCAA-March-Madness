@@ -14,7 +14,7 @@ The purpose of this analysis was to obtain greater understanding of NCAA Divisio
 # References for any code used that is not your own
 
 Requirements
-#Data Model Implementation.
+# Data Model Implementation.
 -A Python script initializes, trains, and evaluates a model.
 
 -The data is cleaned, normalized, and standardized prior to modeling.
@@ -23,17 +23,17 @@ Requirements
 
 -The model demonstrates meaningful predictive power at least 75% classification accuracy or 0.80 R-squared.
 
-#Data Model Optimization (25 points)
+# Data Model Optimization
 -The model optimization and evaluation process showing iterative changes made to the model and the resulting changes in model performance is documented in either a CSV/Excel table or in the Python script itself.
 
 -Overall model performance is printed or displayed at the end of the script.
 
-#GitHub Documentation
+# GitHub Documentation
 -GitHub repository is free of unnecessary files and folders and has an appropriate .gitignore in use.
 
 -The README is customized as a polished presentation of the content of the project.
 
-#Group Presentation
+# Group Presentation
 -All group members speak during the presentation.
 
 -Content, transitions, and conclusions flow smoothly within any time restrictions.
