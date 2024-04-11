@@ -11,6 +11,13 @@ The purpose of this analysis was to obtain greater understanding of NCAA Divisio
 # References for the data source(s)
 *NCAA Mens Basketball Division 1 statistics - https://stats.ncaa.org/rankings/change_sport_year_div
 
+# Resources used as reference
+- Class slides & activities
+- Module 20 Logistic Regression Homework
+- Stack Overflow
+- Tons of ChatGPT
+- Google
+
 # References for any code used that is not your own
 
 Requirements
