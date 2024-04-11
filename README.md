@@ -12,3 +12,32 @@ The purpose of this analysis was to obtain greater understanding of NCAA Divisio
 *NCAA Mens Basketball Division 1 statistics - https://stats.ncaa.org/rankings/change_sport_year_div
 
 # References for any code used that is not your own
+
+Requirements
+#Data Model Implementation.
+-A Python script initializes, trains, and evaluates a model.
+
+-The data is cleaned, normalized, and standardized prior to modeling.
+
+-The model utilizes data retrieved from SQL or Spark.
+
+-The model demonstrates meaningful predictive power at least 75% classification accuracy or 0.80 R-squared.
+
+#Data Model Optimization (25 points)
+-The model optimization and evaluation process showing iterative changes made to the model and the resulting changes in model performance is documented in either a CSV/Excel table or in the Python script itself.
+
+-Overall model performance is printed or displayed at the end of the script.
+
+#GitHub Documentation
+-GitHub repository is free of unnecessary files and folders and has an appropriate .gitignore in use.
+
+-The README is customized as a polished presentation of the content of the project.
+
+#Group Presentation
+-All group members speak during the presentation.
+
+-Content, transitions, and conclusions flow smoothly within any time restrictions.
+
+-The content is relevant to the project.
+
+-The presentation maintains audience interest.
